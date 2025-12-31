@@ -1,0 +1,5 @@
+[project]
+name = "wlb"
+version = "0.1.0"
+description = "Predict work life balance"
+authors = [{ name = "Jyoti Sinha" }]
